@@ -14,7 +14,7 @@ ativos15 <- readRDS("\\\\sbsb2/DIMAC/Novo DIRETORIO NEMAC/Simulações Pessoal/Sim
 ativos16 <- readRDS("\\\\sbsb2/DIMAC/Novo DIRETORIO NEMAC/Simulações Pessoal/Simulação Estados 2020/ativos_sim_2016.rds")
 ativos17 <- readRDS("\\\\sbsb2/DIMAC/Novo DIRETORIO NEMAC/Simulações Pessoal/Simulação Estados 2020/ativos_sim_2017.rds")
 # ativos18 <- readRDS("\\\\sbsb2/DIMAC/Novo DIRETORIO NEMAC/Simulações Pessoal/Simulação Estados 2020/ativos_sim_2018.rds")
-
+#test
 ativos13 = ativos13 %>% mutate(ano = 2013)
 ativos14 = ativos14 %>% mutate(ano = 2014)
 ativos15 = ativos15 %>% mutate(ano = 2015)
